@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=d:\NURE\Dimon\3 course\2_semester\DevOps\PZ1\.venv
+set VIRTUAL_ENV=d:\NURE\Dimon\3 course\2_semester\DevOps\PZ1\medium_level\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
